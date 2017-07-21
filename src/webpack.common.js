@@ -347,7 +347,10 @@ const browserConfig = function(options, root, settings) {
          */
         {
           test: /\.scss$/,
-          include: root(settings.paths.src.client.app.root),
+          include: [
+              root(settings.paths.src.client.app.root),
+              root('node_modules')
+          ],
           use: [
             // TODO: temporarily disabled for sourcemaps interference
             // 'to-string-loader',
