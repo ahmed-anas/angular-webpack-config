@@ -11,8 +11,8 @@ Shared [Webpack] config for [Angular] development
 - [Usage](#usage)
 - [License](#license)
 
-## Getting started
-### Installation
+## <a name="getting-started"></a> Getting started
+### <a name="installation"></a> Installation
 You can install **`angular-webpack-config`** using `npm`
 ```
 npm install angular-webpack-config --save
@@ -20,10 +20,10 @@ npm install angular-webpack-config --save
 
 **Note**: You should have already installed [Webpack].
 
-## Usage
+## <a name="usage"></a> Usage
 To use this [Webpack] configuration, please refer to [ng-seed/universal] repository.
 
-## License
+## <a name="license"></a> License
 The MIT License (MIT)
 
 Copyright (c) 2017 [Burak Tasci]
