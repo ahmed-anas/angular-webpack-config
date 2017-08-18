@@ -9,6 +9,7 @@ Shared [Webpack] config for [Angular] development
 - [Getting started](#getting-started)
   - [Installation](#installation)
 - [Usage](#usage)
+- [Contributing](#contributing)
 - [License](#license)
 
 ## <a name="getting-started"></a> Getting started
@@ -22,6 +23,13 @@ npm install angular-webpack-config --save
 
 ## <a name="usage"></a> Usage
 To use this [Webpack] configuration, please refer to [ng-seed/universal] repository.
+
+## <a name="contributing"></a> Contributing
+If you want to file a bug, contribute some code, or improve documentation, please read up on the following contribution guidelines:
+- [Issue guidelines](CONTRIBUTING.md#submit)
+- [Contributing guidelines](CONTRIBUTING.md)
+- [Coding rules](CONTRIBUTING.md#rules)
+- [ChangeLog](CHANGELOG.md)
 
 ## <a name="license"></a> License
 The MIT License (MIT)
